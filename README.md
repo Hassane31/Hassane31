@@ -14,7 +14,6 @@
 ## My skills
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-6F42C1?style=for-the-badge&logo=Metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-EA4335?style=for-the-badge&logo=Nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-009999?style=for-the-badge&logo=Wireshark&logoColor=white"/>
 </p>
