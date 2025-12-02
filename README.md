@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/laabane-hassane-061285362/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="50"/>
   </a>
-  <a href="https://www.facebook.com/hass.anne.547">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="50"/>
-  </a>
 </p>
 
 ---
